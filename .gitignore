@@ -1,0 +1,14 @@
+**.zip
+**.rar
+**.csv
+**.txt
+**.npz
+!**/.gitkeep
+/.idea/
+/paper/*
+/input/*
+**/__pycache__
+**.pyc
+/temp/*
+/outdata/
+/tenfold/
